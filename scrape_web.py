@@ -6,11 +6,6 @@ import requests
 from newspaper import fulltext
 # from segtok.segmenter import split_single
 
-
-## REQUIREMENTS:
-# pip install newspaper3k
-# pip install bs4
-
 # find by tags
 def extractByTags(url, tag, class_name=None):
     """
