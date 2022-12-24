@@ -24,3 +24,7 @@ In this project, I worked with this: https://www.bible.com/versions/77-igbob-bib
 1. Improve the webscraper for books and chapters that return `YouVersion uses cookies to personalize your experience. By using our website, you accept our use of cookies as described in our Privacy Policy.` instead of the actual bible content.
 
 2. Convert the codes to an API.
+
+
+### License
+This project is licensed under the terms of the Creative Commons license family.
